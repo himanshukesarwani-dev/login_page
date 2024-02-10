@@ -1,0 +1,65 @@
+# General
+.DS_Store
+.idea/
+*.swp
+*.swo
+*.lock
+package-lock.json
+yarn.lock
+
+# Flutter/Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.generated_plugin_registrant.dart
+**/flutter_export_environment.sh
+*/GeneratedPluginRegistrant.
+build/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+ios/Flutter/flutter_export_environment.sh
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+android/.gradle
+android/.idea/
+.gradle/
+local.properties
+
+# MacOS
+**/.DS_Store
+**/.Trashes
+**/.Spotlight-V100
+**/.TemporaryItems
+**/.fseventsd
+
+# Windows
+**/Thumbs.db
+**/ehthumbs.db
+**/Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+**/.directory
+*.swp
+*~
+*/.Trash-
+
+# VS Code
+.vscode/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Packages
+*.pub
+
+# Logs
+logs
+*.log
